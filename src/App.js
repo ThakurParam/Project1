@@ -20,10 +20,10 @@ function App() {
   <Router>
     <Routes>
       <Route path='/' element={<Home/>}/>
-      <Route path='/Book1' element={<Book1/>}/>
-      <Route path='/Book2' element={<Book2/>}/>
-      <Route path='/Book3' element={<Book3/>}/>
-      <Route path='/Book4' element={<Book4/>}/>
+      <Route path='/book1' element={<Book1/>}/>
+      <Route path='/book2' element={<Book2/>}/>
+      <Route path='/book3' element={<Book3/>}/>
+      <Route path='/book4' element={<Book4/>}/>
 
     </Routes>
   </Router>

@@ -59,25 +59,25 @@ const navigate=useNavigate()
                 <div className='div2'>
                     <div className='die'>
                         <img src={img3} className='im0'></img>
-                       <button className='b0001' onClick={() => navigate(`/${Book1}`) }>
+                       <button className='b0001' onClick = {()=> navigate(`/book1`)}>
                             Read More
                         </button>
                     </div>
                     <div className='die'>
                         <img src={img4}  className='im0' />
-                        <Link to ={`/${Book3}`}>  <button className='b0001'>Read More</button></Link>
+                         <button className='b0001' onClick={()=>navigate(`/book2`)}>Read More</button>
                     </div>
                 </div>
                 <div className='div2'>
                     <div className='dif'>
                         <img src={img5} className='im0'></img>
-                       <Link to ={`/${Book1}`}> <button className='b0001'>
+                        <button className='b0001' onClick={()=>navigate(`/book3`)}>
                             Read More
-                        </button></Link>
+                        </button>
                     </div>
                     <div className='dif'>
                         <img src={img6} className='im0' />
-                        <Link to ={`/${Book2}`}> <button className='b0001'>Read More</button></Link>
+                         <button className='b0001' onClick={()=>navigate(`/book4`)}>Read More</button>
                     </div>
                 </div>
             </body>
