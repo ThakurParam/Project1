@@ -12,16 +12,10 @@ function Book1() {
 
                 <div className="dii1">
                     <div className="dii10">
-                        <p className="p2">Welcome</p>
-                        <p className="p3">to the </p>
-                        <p className="p4">BOOK LIBRARY</p>
+                        <p className="p2">"If you have knowledge, </p>
+                        <p className="p3"> </p>
+                        <p className="p4">let others light their candles in it</p>
                     </div>
-                    <div className="dii11">
-                      <p className="p5">EMMA</p>
-                      <p className="p6">By</p>
-                      <p className="p7">Jane Watson</p>
-                    </div>
-
                 </div>
                 <div className="dii2">
 

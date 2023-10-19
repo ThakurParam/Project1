@@ -32,14 +32,14 @@ const navigate=useNavigate()
             <body>
                 <nav>
                     <ul className='ulist'>
-                        <li className='ilist'><a href='#about' className='alist'>About</a></li>
-                        <li className='ilist'><a href='#skills' className='alist'>Skills</a></li>
-                        <li className='ilist'><a href='#portfolio' className='alist'>Portfolio</a></li>
-                        <li className='ilist'><a href='#contact' className='alist'>Contact</a></li>
+                    <li className='ilist'><a href='#home' className='alist'>Home</a></li>
+                        <li className='ilist'><a href='#book' className='alist'>Books</a></li>
+                        <li className='ilist'><a href='#foot' className='alist'>Foot</a></li>
+                       
                     </ul>
                 </nav>
                 <p className='poo'>LIBRARY</p>
-                <div className='dia'>
+                <div className='dia' id='home'>
                     <div className='div0'>
                         <h1 className='h0'>"Books are the plane, and the train, and the road. They are the destination, and the journey. They are home."</h1>
 
@@ -56,7 +56,7 @@ const navigate=useNavigate()
                     <p className='p002'>To Read Books Select from Given Below!!!!!!!!!</p>
                 </div>
                 <div className='did'></div>
-                <div className='div2'>
+                <div className='div2' id='book'>
                     <div className='die'>
                         <img src={img3} className='im0'></img>
                        <button className='b0001' onClick = {()=> navigate(`/book1`)}>

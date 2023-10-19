@@ -82,6 +82,7 @@ nav{
     color: transparent;
 }
 .dia{
+  background-color: antiquewhite;
 display: flex;
 justify-content: space-between;
 padding-top: 10%;
@@ -164,6 +165,7 @@ justify-content: space-between;
     z-index: -1;
   }
   .div2{
+    background-color: wheat;
     padding-top: 5%;
     display: flex;
     justify-content: space-between;
@@ -186,6 +188,7 @@ justify-content: space-between;
 .im0{
   height: 40%;
   border-radius: 5%;
+
 }
 .b0001{
   border-radius: 5%;
@@ -203,25 +206,30 @@ transition: all ease 0.5s;
 }
 /* book1 css start here  */
 .body0{
-  background-color: rgb(224, 160, 75);
+  background-color: rgb(0, 0, 0);
 
 }
 .dii1{
-  background-color: #ffffff;
-  height: 400px;
+  background-color:#575548;
+  height: 300px;
   width: auto;
-  display: flex;
-  justify-content: space-between;
+ 
 }
 .dii10 {
-  width: 50%;
+  width: auto;
 }
 .p2{
+  margin-top: 0px;
   font-weight: 600;
   font-size: 65px;
   font-family: cursive;
   margin-left: 15PX;
-
+  background-image: url(./image/sky.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 .p3{
   font-size: 30px;
@@ -230,12 +238,17 @@ transition: all ease 0.5s;
   font-family:cursive ;
 }
 .p4{
-  text-align: end;
+  text-align: center;
   font-size: 50px;
-  margin-right: 80px;
+  
   font-family: auto;
   font-weight: 900;
-
+  background-image: url(./image/sky.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 .dii11{
   background-color: rgb(90, 120, 122);
@@ -273,7 +286,7 @@ transition: all ease 0.5s;
   height: 20px;
 }
 .dii0{
-  background-color: aqua;
+  background-color: #d9e9e9;
   
   margin-left: 20%;
   padding-left: 7%;
@@ -301,10 +314,48 @@ transition: all ease 0.5s;
 }
 /* Book2 css start here*/
 .b00{
-  background-color: #541313b5;
+  background-color: #fff400;
+}
+.diiA{
+  background-color:#b3b3b3;
+  height: 300px;
+  width: auto;
+ 
+}
+.pA{
+  margin-top: 0px;
+  font-weight: 600;
+  font-size: 65px;
+  font-family: cursive;
+  margin-left: 15PX;
+  background-image: url(./image/sky2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.pB{
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  font-family:cursive ;
+}
+.pC{
+  text-align: center;
+  font-size: 50px;
+  
+  font-family: auto;
+  font-weight: 900;
+  background-image: url(./image/sky2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 .diia{
-  background-color: rgb(224, 113, 235);
+  background-color: rgb(249 244 249);;
   
   margin-right: 22%;
   padding-left: 7%;
@@ -314,7 +365,44 @@ transition: all ease 0.5s;
 }
 /* book3 csss start here  */
 .b01{
-  background-color: rgb(117, 56, 56);
+  background-color: rgb(37 80 89);;
+}
+.diiP{
+  background-color:#fffdfd;
+  height: 300px;
+  width: auto;
+}
+.pE{
+  margin-top: 0px;
+  font-weight: 600;
+  font-size: 65px;
+  font-family: cursive;
+  margin-left: 15PX;
+  background-image: url(./image/sky3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.pQ{
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  font-family:cursive ;
+}
+.pW{
+  text-align: end;
+  font-size: 50px;
+  
+  font-family: auto;
+  font-weight: 900;
+  background-image: url(./image/sky3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 .di01{
   background-color: rgb(187, 197, 202);
@@ -329,10 +417,47 @@ transition: all ease 0.5s;
 /* book4 csss start here  */
 .b000{
   padding-left: 20%;
-  background-color: #541313b5;
+  background-color: #000000b5;
+}
+.diiR{
+  background-color:#fffdfd;
+  height: 300px;
+  width: auto;
+}
+.pX{
+  margin-top: 0px;
+  font-weight: 600;
+  font-size: 65px;
+  font-family: cursive;
+  margin-left: 15PX;
+  background-image: url(./image/sky4.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.pY{
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  font-family:cursive ;
+}
+.pZ{
+  text-align: end;
+  font-size: 50px;
+  
+  font-family: auto;
+  font-weight: 900;
+  background-image: url(./image/sky4.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 .dii00{
-  background-color: rgb(103, 109, 109);
+  background-color: rgb(202 255 255);
   padding-left: 7%;
     padding-top: 7%;
     padding-right: 7%;
@@ -352,4 +477,66 @@ transition: all ease 0.5s;
 .pi3{
   margin-top: -15px;
   font-size: 10px;
+}
+@media screen and (max-width: 480px) {
+  
+  .poo {
+    letter-spacing: -10px;
+    text-align: center;
+    font-weight: 100;
+    font-family: auto;
+    
+}
+  
+  
+  .dia {
+   flex-direction: column-reverse; 
+}
+.div0 {
+  width: 100%;
+}
+.div1 {
+ width: 100%;
+}
+.img00{
+margin-left: 0px;
+width: -webkit-fill-available;
+}
+.h0{
+  font-size: 30px;
+    color: black;
+    font-family: cursive;
+    word-spacing: 0px;
+    text-align: center;
+    color: black;
+}
+.div2 {
+flex-direction: column;
+}
+.b0001 {
+  letter-spacing: 0px;
+  width: 25%;
+  height: 10%;
+
+
+}
+.im0 {
+  margin-left: 50px;
+}
+.die {
+  width: 100%;
+  height: 80vh;
+}
+.dif {
+  width: 100%;
+  height: 80vh;
+}
+
+
+
+
+
+
+
+
 }

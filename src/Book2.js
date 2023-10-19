@@ -7,18 +7,12 @@ function Book2() {
 
         <>
             <body className="b00">
-                <div className="dii1">
+                <div className="diiA">
                     <div className="dii10">
-                        <p className="p2">Welcome</p>
-                        <p className="p3">to the </p>
-                        <p className="p4">BOOK LIBRARY</p>
+                        <p className="pA">Knowledge is wealth, wisdom is treasure,</p>
+                        <p className="pB">understanding is riches,</p>
+                        <p className="pC">and ignorance is poverty.</p>
                     </div>
-                    <div className="dii11">
-                        <p className="p5">EMMA</p>
-                        <p className="p6">By</p>
-                        <p className="p7">Jane Watson</p>
-                    </div>
-
                 </div>
                 <div className="dii2">
 

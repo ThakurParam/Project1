@@ -8,18 +8,13 @@ function Book3() {
 
         <>
             <body className='b01'>
-                <div className="dii1">
+                <div className="diiP">
                     <div className="dii10">
-                        <p className="p2">Welcome</p>
-                        <p className="p3">to the </p>
-                        <p className="p4">BOOK LIBRARY</p>
+                        <p className="pE">"Knowledge is love  </p>
+                        <p className="pQ"> and</p>
+                        <p className="pW">light and vision."</p>
                     </div>
-                    <div className="dii11">
-                        <p className="p5">EMMA</p>
-                        <p className="p6">By</p>
-                        <p className="p7">Jane Watson</p>
-                    </div>
-
+                  
                 </div>
                 <div className="dii2">
 
