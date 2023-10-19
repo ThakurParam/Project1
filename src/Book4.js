@@ -106,21 +106,21 @@ A muffled grunt confirmed the presence of a real, live body. Unfortunately, the 
 </p>
 <p>
 <h3>CHAPTER 3</h3>
-“Start talking.”
+“Start talking.”</p><p>
 
 It was a demand, ice cold and filled with protective rage. A rage that barely concealed a noxious mix of fear, worry, and sickening terror. Vicious, graphic images twisted through my mind. If Kelsey was in the hands of the psycho who stalked my nightmares, I knew too well what horrors she could be enduring. It was times like this when I abhorred how much shit lived in my head.
 
-“Ellery escaped custody.” Kayden’s answer was brutally short.
+“Ellery escaped custody.” Kayden’s answer was brutally short.</p><p>
 
-“Escaped?”
+“Escaped?”</p><p>
 
-“During transport to Pendleton, five months ago.”
+“During transport to Pendleton, five months ago.”</p><p>
 
 “Five months?” Shock wiped out my higher brain functions and left me sounding like a parrot. I pushed unsteadily to my feet. When Kayden rose to help me, I waved him off. Gripping the counter, I kept my back to him and did my best to untangle my gnarled thoughts.
 
 Eleven months ago, I was assigned to a specialized, eight-person team to unravel the who and why behind the theft and possible sale of information on an experimental weaponized virus delivery system. It took us five months to uncover the who and close in. Unfortunately, the cost of bringing in Master Sergeant Reeve Ellery to stand trial for espionage had been high. Too high. Two of my team came home in flag-draped coffins. One of which belonged to my mentor and friend, Flash.
 
-Ugly memories stirred, a bitter reminder of the price I was forced to pay. A price that looked as if I was still paying. The question was, why?
+Ugly memories stirred, a bitter reminder of the price I was forced to pay.</p><p> A price that looked as if I was still paying. The question was, why?
 
 Granted, my testimony, as questionable as it was, helped cement Ellery’s conviction, but most of the evidence rested on previously gathered intel. My remaining four team members had been “unavailable”. Actual translation—hiding behind bigger uniforms or tucked away on classified missions. Which left me facing Ellery, the inquiry board, and their uncomfortable questions all alone. A situation that still chaffed my ass.
 

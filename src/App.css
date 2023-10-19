@@ -531,12 +531,41 @@ flex-direction: column;
   width: 100%;
   height: 80vh;
 }
+.p2 {
+  font-weight: 100;
+  font-size: 40px;
+  margin-left: 10px;
 
-
-
-
-
-
+}
+.pA {
+  font-weight: 100;
+  font-size: 40px;
+  margin-left: 10px; 
+}
+.pB{
+  font-weight: 100;
+  margin-top: -40px;
+}
+.pC{
+  font-weight: 100;
+  font-size: 40px;
+  margin-left: 10px; 
+}
+.pE{
+  font-weight: 100;
+  font-size: 40px;
+  margin-left: 10px;  
+}
+.pX{
+  font-weight: 100;
+  font-size: 40px;
+  margin-left: 10px;
+}
+.pZ{
+  font-weight: 100;
+  font-size: 30px;
+  margin-right: 15px;
+}
 
 
 }
